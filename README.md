@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Marketing Website</title>
-    <link rel="stylesheet" href="style.css">
+   
     <style>
         body {
   font-family: Arial, sans-serif;
@@ -19,8 +19,9 @@ h1 {
 }
 article{
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3U6keV8N2IeOM3xOJAb6xYJyLcKq4oYNM0g&usqp=CAU);
-  background-position: right;
+  background-position:  right;
   background-repeat: no-repeat;
+  background-size: 230px;
 }
 
 h2 {
@@ -247,7 +248,7 @@ padding: 0 2rem ;
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4t_pzRfa_ssSYInTAH0Oo3WnCUgdyUqWHw&usqp=CAU">
         </div>
     </div>
-</div>
+
 
         <div class="section">
             <h2 id="support">Our Support</h2>
@@ -278,5 +279,5 @@ padding: 0 2rem ;
             © 2023 Marketing Website. All rights reserved.
         </div>
     </div>
-      </body>
-          </html>
+
+
